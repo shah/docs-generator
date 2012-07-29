@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Metevier;Nadene;Anthony;SES Position 03;2011;278TR08;Nadene.Metevier@DOD.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Army',
+          'optionalField' => '',
+          'relativeDir' => 'DOD\\Army',
+          'watcherEmail' => 'Nadene.Metevier@DOD.gov',
+          'lastName' => 'Metevier',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Nadene',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'Anthony',
+          'component' => 'Army',
+          'documentType' => '278TR08',
+          'year' => '2011'
+        };

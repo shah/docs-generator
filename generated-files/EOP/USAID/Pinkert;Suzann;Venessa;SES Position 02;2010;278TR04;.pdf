@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Pinkert;Suzann;Venessa;SES Position 02;2010;278TR04;',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => '',
+          'lastName' => 'Pinkert',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Suzann',
+          'positionTitle' => 'SES Position 02',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'Venessa',
+          'component' => 'USAID',
+          'documentType' => '278TR04',
+          'year' => '2010'
+        };

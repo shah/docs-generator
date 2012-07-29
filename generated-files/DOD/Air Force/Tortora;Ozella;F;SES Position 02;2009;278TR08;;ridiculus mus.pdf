@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Tortora;Ozella;F;SES Position 02;2009;278TR08;;ridiculus mus',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => ';ridiculus mus',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => '',
+          'lastName' => 'Tortora',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Ozella',
+          'positionTitle' => 'SES Position 02',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'F',
+          'component' => 'Air Force',
+          'documentType' => '278TR08',
+          'year' => '2009'
+        };

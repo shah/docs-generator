@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Bretana;Mable;D;SES Position 01;2011;278TR11;Mable.Bretana@DOD.gov;pellentesque eu',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => ';pellentesque eu',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => 'Mable.Bretana@DOD.gov',
+          'lastName' => 'Bretana',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Mable',
+          'positionTitle' => 'SES Position 01',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'D',
+          'component' => 'Air Force',
+          'documentType' => '278TR11',
+          'year' => '2011'
+        };

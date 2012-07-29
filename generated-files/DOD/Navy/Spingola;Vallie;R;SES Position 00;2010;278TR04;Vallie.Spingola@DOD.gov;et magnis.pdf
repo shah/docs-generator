@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Spingola;Vallie;R;SES Position 00;2010;278TR04;Vallie.Spingola@DOD.gov;et magnis',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => ';et magnis',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => 'Vallie.Spingola@DOD.gov',
+          'lastName' => 'Spingola',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Vallie',
+          'positionTitle' => 'SES Position 00',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'R',
+          'component' => 'Navy',
+          'documentType' => '278TR04',
+          'year' => '2010'
+        };

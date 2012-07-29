@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Kamensky;Hilton;;SES Position 02;2010;278TR12;Hilton.Kamensky@HHS.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\HHS\\FDA',
+          'optionalField' => '',
+          'relativeDir' => 'HHS\\FDA',
+          'watcherEmail' => 'Hilton.Kamensky@HHS.gov',
+          'lastName' => 'Kamensky',
+          'agency' => 'HHS',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Hilton',
+          'positionTitle' => 'SES Position 02',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'FDA',
+          'documentType' => '278TR12',
+          'year' => '2010'
+        };

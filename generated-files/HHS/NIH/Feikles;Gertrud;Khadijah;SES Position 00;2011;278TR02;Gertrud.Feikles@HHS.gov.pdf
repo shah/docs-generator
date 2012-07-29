@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Feikles;Gertrud;Khadijah;SES Position 00;2011;278TR02;Gertrud.Feikles@HHS.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\HHS\\NIH',
+          'optionalField' => '',
+          'relativeDir' => 'HHS\\NIH',
+          'watcherEmail' => 'Gertrud.Feikles@HHS.gov',
+          'lastName' => 'Feikles',
+          'agency' => 'HHS',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Gertrud',
+          'positionTitle' => 'SES Position 00',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'Khadijah',
+          'component' => 'NIH',
+          'documentType' => '278TR02',
+          'year' => '2011'
+        };

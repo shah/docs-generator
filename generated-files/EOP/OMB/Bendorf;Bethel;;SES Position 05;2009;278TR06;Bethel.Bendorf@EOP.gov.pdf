@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Bendorf;Bethel;;SES Position 05;2009;278TR06;Bethel.Bendorf@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\OMB',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\OMB',
+          'watcherEmail' => 'Bethel.Bendorf@EOP.gov',
+          'lastName' => 'Bendorf',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Bethel',
+          'positionTitle' => 'SES Position 05',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'OMB',
+          'documentType' => '278TR06',
+          'year' => '2009'
+        };

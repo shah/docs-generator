@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Lopresto;Donya;;SES Position 00;2009;278TR10;Donya.Lopresto@EOP.gov;dolor sit amet',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => ';dolor sit amet',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Donya.Lopresto@EOP.gov',
+          'lastName' => 'Lopresto',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Donya',
+          'positionTitle' => 'SES Position 00',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'USAID',
+          'documentType' => '278TR10',
+          'year' => '2009'
+        };

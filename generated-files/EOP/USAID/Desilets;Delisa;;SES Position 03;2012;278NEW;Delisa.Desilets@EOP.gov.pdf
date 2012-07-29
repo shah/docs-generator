@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Desilets;Delisa;;SES Position 03;2012;278NEW;Delisa.Desilets@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Delisa.Desilets@EOP.gov',
+          'lastName' => 'Desilets',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Delisa',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'USAID',
+          'documentType' => '278NEW',
+          'year' => '2012'
+        };

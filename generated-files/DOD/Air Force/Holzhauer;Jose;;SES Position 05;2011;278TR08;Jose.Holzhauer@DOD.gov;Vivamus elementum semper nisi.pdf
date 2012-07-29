@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Holzhauer;Jose;;SES Position 05;2011;278TR08;Jose.Holzhauer@DOD.gov;Vivamus elementum semper nisi',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => ';Vivamus elementum semper nisi',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => 'Jose.Holzhauer@DOD.gov',
+          'lastName' => 'Holzhauer',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Jose',
+          'positionTitle' => 'SES Position 05',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'Air Force',
+          'documentType' => '278TR08',
+          'year' => '2011'
+        };

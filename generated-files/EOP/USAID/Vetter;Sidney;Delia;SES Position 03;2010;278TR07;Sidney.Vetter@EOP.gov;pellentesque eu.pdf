@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Vetter;Sidney;Delia;SES Position 03;2010;278TR07;Sidney.Vetter@EOP.gov;pellentesque eu',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => ';pellentesque eu',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Sidney.Vetter@EOP.gov',
+          'lastName' => 'Vetter',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Sidney',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'Delia',
+          'component' => 'USAID',
+          'documentType' => '278TR07',
+          'year' => '2010'
+        };

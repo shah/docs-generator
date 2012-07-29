@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Hasbni;Pilar;L;SES Position 05;2012;278NEW;Pilar.Hasbni@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\OMB',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\OMB',
+          'watcherEmail' => 'Pilar.Hasbni@EOP.gov',
+          'lastName' => 'Hasbni',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Pilar',
+          'positionTitle' => 'SES Position 05',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'L',
+          'component' => 'OMB',
+          'documentType' => '278NEW',
+          'year' => '2012'
+        };

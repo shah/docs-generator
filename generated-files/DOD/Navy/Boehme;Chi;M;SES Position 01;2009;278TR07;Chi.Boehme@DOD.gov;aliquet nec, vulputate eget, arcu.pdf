@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Boehme;Chi;M;SES Position 01;2009;278TR07;Chi.Boehme@DOD.gov;aliquet nec, vulputate eget, arcu',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => ';aliquet nec, vulputate eget, arcu',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => 'Chi.Boehme@DOD.gov',
+          'lastName' => 'Boehme',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Chi',
+          'positionTitle' => 'SES Position 01',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'M',
+          'component' => 'Navy',
+          'documentType' => '278TR07',
+          'year' => '2009'
+        };

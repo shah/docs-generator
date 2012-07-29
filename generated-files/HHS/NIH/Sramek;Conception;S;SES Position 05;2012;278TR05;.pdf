@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Sramek;Conception;S;SES Position 05;2012;278TR05;',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\HHS\\NIH',
+          'optionalField' => '',
+          'relativeDir' => 'HHS\\NIH',
+          'watcherEmail' => '',
+          'lastName' => 'Sramek',
+          'agency' => 'HHS',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Conception',
+          'positionTitle' => 'SES Position 05',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'S',
+          'component' => 'NIH',
+          'documentType' => '278TR05',
+          'year' => '2012'
+        };

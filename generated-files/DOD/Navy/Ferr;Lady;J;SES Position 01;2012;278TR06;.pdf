@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Ferr;Lady;J;SES Position 01;2012;278TR06;',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => '',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => '',
+          'lastName' => 'Ferr',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Lady',
+          'positionTitle' => 'SES Position 01',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'J',
+          'component' => 'Navy',
+          'documentType' => '278TR06',
+          'year' => '2012'
+        };

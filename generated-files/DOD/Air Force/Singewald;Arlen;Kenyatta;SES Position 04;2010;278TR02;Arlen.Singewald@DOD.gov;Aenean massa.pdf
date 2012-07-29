@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Singewald;Arlen;Kenyatta;SES Position 04;2010;278TR02;Arlen.Singewald@DOD.gov;Aenean massa',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => ';Aenean massa',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => 'Arlen.Singewald@DOD.gov',
+          'lastName' => 'Singewald',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Arlen',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'Kenyatta',
+          'component' => 'Air Force',
+          'documentType' => '278TR02',
+          'year' => '2010'
+        };

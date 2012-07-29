@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Macartney;Jordan;;SES Position 04;2009;278NEW;Jordan.Macartney@DOD.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => '',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => 'Jordan.Macartney@DOD.gov',
+          'lastName' => 'Macartney',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Jordan',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'Air Force',
+          'documentType' => '278NEW',
+          'year' => '2009'
+        };

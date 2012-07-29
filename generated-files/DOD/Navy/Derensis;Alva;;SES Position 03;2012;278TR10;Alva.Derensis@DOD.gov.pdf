@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Derensis;Alva;;SES Position 03;2012;278TR10;Alva.Derensis@DOD.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => '',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => 'Alva.Derensis@DOD.gov',
+          'lastName' => 'Derensis',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Alva',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'Navy',
+          'documentType' => '278TR10',
+          'year' => '2012'
+        };

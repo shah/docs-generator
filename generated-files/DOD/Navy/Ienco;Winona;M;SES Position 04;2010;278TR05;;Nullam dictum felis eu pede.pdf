@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Ienco;Winona;M;SES Position 04;2010;278TR05;;Nullam dictum felis eu pede',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => ';Nullam dictum felis eu pede',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => '',
+          'lastName' => 'Ienco',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Winona',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'M',
+          'component' => 'Navy',
+          'documentType' => '278TR05',
+          'year' => '2010'
+        };

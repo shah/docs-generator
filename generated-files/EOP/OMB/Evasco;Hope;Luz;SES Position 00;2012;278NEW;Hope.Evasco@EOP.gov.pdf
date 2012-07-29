@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Evasco;Hope;Luz;SES Position 00;2012;278NEW;Hope.Evasco@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\OMB',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\OMB',
+          'watcherEmail' => 'Hope.Evasco@EOP.gov',
+          'lastName' => 'Evasco',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Hope',
+          'positionTitle' => 'SES Position 00',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'Luz',
+          'component' => 'OMB',
+          'documentType' => '278NEW',
+          'year' => '2012'
+        };

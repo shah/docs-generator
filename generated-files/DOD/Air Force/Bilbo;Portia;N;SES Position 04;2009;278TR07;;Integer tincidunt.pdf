@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Bilbo;Portia;N;SES Position 04;2009;278TR07;;Integer tincidunt',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => ';Integer tincidunt',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => '',
+          'lastName' => 'Bilbo',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Portia',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'N',
+          'component' => 'Air Force',
+          'documentType' => '278TR07',
+          'year' => '2009'
+        };

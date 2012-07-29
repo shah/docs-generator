@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Fugua;Marquita;;SES Position 02;2009;278TR04;Marquita.Fugua@EOP.gov;pretium quis, sem',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => ';pretium quis, sem',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Marquita.Fugua@EOP.gov',
+          'lastName' => 'Fugua',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Marquita',
+          'positionTitle' => 'SES Position 02',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'USAID',
+          'documentType' => '278TR04',
+          'year' => '2009'
+        };

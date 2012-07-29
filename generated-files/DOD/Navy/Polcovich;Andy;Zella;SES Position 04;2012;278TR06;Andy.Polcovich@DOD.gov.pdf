@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Polcovich;Andy;Zella;SES Position 04;2012;278TR06;Andy.Polcovich@DOD.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => '',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => 'Andy.Polcovich@DOD.gov',
+          'lastName' => 'Polcovich',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Andy',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'Zella',
+          'component' => 'Navy',
+          'documentType' => '278TR06',
+          'year' => '2012'
+        };

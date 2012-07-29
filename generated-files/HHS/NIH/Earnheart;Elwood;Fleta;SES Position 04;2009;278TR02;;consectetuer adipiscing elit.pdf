@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Earnheart;Elwood;Fleta;SES Position 04;2009;278TR02;;consectetuer adipiscing elit',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\HHS\\NIH',
+          'optionalField' => ';consectetuer adipiscing elit',
+          'relativeDir' => 'HHS\\NIH',
+          'watcherEmail' => '',
+          'lastName' => 'Earnheart',
+          'agency' => 'HHS',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Elwood',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'Fleta',
+          'component' => 'NIH',
+          'documentType' => '278TR02',
+          'year' => '2009'
+        };

@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Vollmering;Delilah;G;SES Position 03;2012;278TERM;;Cras dapibus ',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => ';Cras dapibus ',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => '',
+          'lastName' => 'Vollmering',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Delilah',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'G',
+          'component' => 'Air Force',
+          'documentType' => '278TERM',
+          'year' => '2012'
+        };

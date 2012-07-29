@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Borguez;Eileen;G;SES Position 05;2012;278TR01;;pretium quis, sem',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Army',
+          'optionalField' => ';pretium quis, sem',
+          'relativeDir' => 'DOD\\Army',
+          'watcherEmail' => '',
+          'lastName' => 'Borguez',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Eileen',
+          'positionTitle' => 'SES Position 05',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'G',
+          'component' => 'Army',
+          'documentType' => '278TR01',
+          'year' => '2012'
+        };

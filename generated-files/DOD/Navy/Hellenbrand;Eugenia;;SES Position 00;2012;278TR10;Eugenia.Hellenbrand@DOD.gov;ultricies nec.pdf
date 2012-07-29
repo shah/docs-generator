@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Hellenbrand;Eugenia;;SES Position 00;2012;278TR10;Eugenia.Hellenbrand@DOD.gov;ultricies nec',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => ';ultricies nec',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => 'Eugenia.Hellenbrand@DOD.gov',
+          'lastName' => 'Hellenbrand',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Eugenia',
+          'positionTitle' => 'SES Position 00',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'Navy',
+          'documentType' => '278TR10',
+          'year' => '2012'
+        };

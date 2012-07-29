@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Monteagudo;Lynwood;Dakota;SES Position 05;2010;278TR08;Lynwood.Monteagudo@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\OMB',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\OMB',
+          'watcherEmail' => 'Lynwood.Monteagudo@EOP.gov',
+          'lastName' => 'Monteagudo',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Lynwood',
+          'positionTitle' => 'SES Position 05',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'Dakota',
+          'component' => 'OMB',
+          'documentType' => '278TR08',
+          'year' => '2010'
+        };

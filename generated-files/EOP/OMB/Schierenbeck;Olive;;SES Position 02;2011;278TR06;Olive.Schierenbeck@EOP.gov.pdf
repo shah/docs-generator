@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Schierenbeck;Olive;;SES Position 02;2011;278TR06;Olive.Schierenbeck@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\OMB',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\OMB',
+          'watcherEmail' => 'Olive.Schierenbeck@EOP.gov',
+          'lastName' => 'Schierenbeck',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Olive',
+          'positionTitle' => 'SES Position 02',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'OMB',
+          'documentType' => '278TR06',
+          'year' => '2011'
+        };

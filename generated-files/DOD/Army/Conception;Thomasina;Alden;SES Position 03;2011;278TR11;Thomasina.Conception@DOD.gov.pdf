@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Conception;Thomasina;Alden;SES Position 03;2011;278TR11;Thomasina.Conception@DOD.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Army',
+          'optionalField' => '',
+          'relativeDir' => 'DOD\\Army',
+          'watcherEmail' => 'Thomasina.Conception@DOD.gov',
+          'lastName' => 'Conception',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Thomasina',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'Alden',
+          'component' => 'Army',
+          'documentType' => '278TR11',
+          'year' => '2011'
+        };

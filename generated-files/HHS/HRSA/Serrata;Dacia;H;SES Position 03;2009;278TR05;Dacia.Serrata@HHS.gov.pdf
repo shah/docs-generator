@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Serrata;Dacia;H;SES Position 03;2009;278TR05;Dacia.Serrata@HHS.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\HHS\\HRSA',
+          'optionalField' => '',
+          'relativeDir' => 'HHS\\HRSA',
+          'watcherEmail' => 'Dacia.Serrata@HHS.gov',
+          'lastName' => 'Serrata',
+          'agency' => 'HHS',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Dacia',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'H',
+          'component' => 'HRSA',
+          'documentType' => '278TR05',
+          'year' => '2009'
+        };

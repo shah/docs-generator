@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Wigham;Melvin;M;SES Position 04;2011;278TR01;Melvin.Wigham@DOD.gov;ridiculus mus',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => ';ridiculus mus',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => 'Melvin.Wigham@DOD.gov',
+          'lastName' => 'Wigham',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Melvin',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'M',
+          'component' => 'Air Force',
+          'documentType' => '278TR01',
+          'year' => '2011'
+        };

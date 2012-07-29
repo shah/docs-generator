@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Drey;Laticia;Isidro;SES Position 03;2011;278TR02;Laticia.Drey@HHS.gov;dis parturient ',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\HHS\\HRSA',
+          'optionalField' => ';dis parturient ',
+          'relativeDir' => 'HHS\\HRSA',
+          'watcherEmail' => 'Laticia.Drey@HHS.gov',
+          'lastName' => 'Drey',
+          'agency' => 'HHS',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Laticia',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'Isidro',
+          'component' => 'HRSA',
+          'documentType' => '278TR02',
+          'year' => '2011'
+        };

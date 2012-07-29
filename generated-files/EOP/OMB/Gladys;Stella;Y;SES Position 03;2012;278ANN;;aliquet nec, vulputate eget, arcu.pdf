@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Gladys;Stella;Y;SES Position 03;2012;278ANN;;aliquet nec, vulputate eget, arcu',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\OMB',
+          'optionalField' => ';aliquet nec, vulputate eget, arcu',
+          'relativeDir' => 'EOP\\OMB',
+          'watcherEmail' => '',
+          'lastName' => 'Gladys',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Stella',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 0,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'Y',
+          'component' => 'OMB',
+          'documentType' => '278ANN',
+          'year' => '2012'
+        };

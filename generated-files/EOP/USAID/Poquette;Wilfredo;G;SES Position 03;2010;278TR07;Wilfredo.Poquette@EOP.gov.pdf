@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Poquette;Wilfredo;G;SES Position 03;2010;278TR07;Wilfredo.Poquette@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Wilfredo.Poquette@EOP.gov',
+          'lastName' => 'Poquette',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Wilfredo',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 1,
+          'middleName' => 'G',
+          'component' => 'USAID',
+          'documentType' => '278TR07',
+          'year' => '2010'
+        };

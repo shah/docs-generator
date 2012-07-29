@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Molineaux;Hiedi;;SES Position 03;2012;278TR10;Hiedi.Molineaux@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Hiedi.Molineaux@EOP.gov',
+          'lastName' => 'Molineaux',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Hiedi',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'USAID',
+          'documentType' => '278TR10',
+          'year' => '2012'
+        };

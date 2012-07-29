@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Tenaglia;Jolyn;;SES Position 05;2009;278TR03;Jolyn.Tenaglia@EOP.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => '',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Jolyn.Tenaglia@EOP.gov',
+          'lastName' => 'Tenaglia',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Jolyn',
+          'positionTitle' => 'SES Position 05',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'USAID',
+          'documentType' => '278TR03',
+          'year' => '2009'
+        };

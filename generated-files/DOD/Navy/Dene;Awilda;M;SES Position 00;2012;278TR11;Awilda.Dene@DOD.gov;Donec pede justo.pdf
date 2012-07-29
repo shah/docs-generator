@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Dene;Awilda;M;SES Position 00;2012;278TR11;Awilda.Dene@DOD.gov;Donec pede justo',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => ';Donec pede justo',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => 'Awilda.Dene@DOD.gov',
+          'lastName' => 'Dene',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Awilda',
+          'positionTitle' => 'SES Position 00',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'M',
+          'component' => 'Navy',
+          'documentType' => '278TR11',
+          'year' => '2012'
+        };

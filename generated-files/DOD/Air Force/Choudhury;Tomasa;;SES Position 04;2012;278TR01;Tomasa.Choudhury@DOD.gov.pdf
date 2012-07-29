@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Choudhury;Tomasa;;SES Position 04;2012;278TR01;Tomasa.Choudhury@DOD.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Air Force',
+          'optionalField' => '',
+          'relativeDir' => 'DOD\\Air Force',
+          'watcherEmail' => 'Tomasa.Choudhury@DOD.gov',
+          'lastName' => 'Choudhury',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Tomasa',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'Air Force',
+          'documentType' => '278TR01',
+          'year' => '2012'
+        };

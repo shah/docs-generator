@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Woodka;Dominique;A;SES Position 00;2012;278TR02;Dominique.Woodka@DOD.gov;sociis natoque penatibus',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Army',
+          'optionalField' => ';sociis natoque penatibus',
+          'relativeDir' => 'DOD\\Army',
+          'watcherEmail' => 'Dominique.Woodka@DOD.gov',
+          'lastName' => 'Woodka',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Dominique',
+          'positionTitle' => 'SES Position 00',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'A',
+          'component' => 'Army',
+          'documentType' => '278TR02',
+          'year' => '2012'
+        };

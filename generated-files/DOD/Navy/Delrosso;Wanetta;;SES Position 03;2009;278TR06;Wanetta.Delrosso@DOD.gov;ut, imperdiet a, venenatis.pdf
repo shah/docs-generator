@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Delrosso;Wanetta;;SES Position 03;2009;278TR06;Wanetta.Delrosso@DOD.gov;ut, imperdiet a, venenatis',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Navy',
+          'optionalField' => ';ut, imperdiet a, venenatis',
+          'relativeDir' => 'DOD\\Navy',
+          'watcherEmail' => 'Wanetta.Delrosso@DOD.gov',
+          'lastName' => 'Delrosso',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Wanetta',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'Navy',
+          'documentType' => '278TR06',
+          'year' => '2009'
+        };

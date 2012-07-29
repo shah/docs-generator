@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Batchelor;Brenton;Lyda;SES Position 03;2011;278TR09;Brenton.Batchelor@DOD.gov;Donec pede justo',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\DOD\\Army',
+          'optionalField' => ';Donec pede justo',
+          'relativeDir' => 'DOD\\Army',
+          'watcherEmail' => 'Brenton.Batchelor@DOD.gov',
+          'lastName' => 'Batchelor',
+          'agency' => 'DOD',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Brenton',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 1,
+          'middleName' => 'Lyda',
+          'component' => 'Army',
+          'documentType' => '278TR09',
+          'year' => '2011'
+        };

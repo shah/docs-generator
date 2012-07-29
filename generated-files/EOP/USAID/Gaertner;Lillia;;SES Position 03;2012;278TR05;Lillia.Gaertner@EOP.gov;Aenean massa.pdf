@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Gaertner;Lillia;;SES Position 03;2012;278TR05;Lillia.Gaertner@EOP.gov;Aenean massa',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\EOP\\USAID',
+          'optionalField' => ';Aenean massa',
+          'relativeDir' => 'EOP\\USAID',
+          'watcherEmail' => 'Lillia.Gaertner@EOP.gov',
+          'lastName' => 'Gaertner',
+          'agency' => 'EOP',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 1,
+          'firstName' => 'Lillia',
+          'positionTitle' => 'SES Position 03',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 1,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'USAID',
+          'documentType' => '278TR05',
+          'year' => '2012'
+        };

@@ -1,0 +1,21 @@
+$VAR1 = {
+          'fileName' => 'Nonu;Alejandrina;;SES Position 04;2010;278TR04;Alejandrina.Nonu@HHS.gov',
+          'directory' => 'C:\\Projects\\MAX-OGE\\docs-generator\\generated-files\\HHS\\IHS',
+          'optionalField' => '',
+          'relativeDir' => 'HHS\\IHS',
+          'watcherEmail' => 'Alejandrina.Nonu@HHS.gov',
+          'lastName' => 'Nonu',
+          'agency' => 'HHS',
+          'templateFile' => 'OGE Form 278 Automated.pdf',
+          'isMiddledInitial' => 0,
+          'firstName' => 'Alejandrina',
+          'positionTitle' => 'SES Position 04',
+          'extension' => '.pdf',
+          'hasWatcherEmail' => 1,
+          'hasOptionalField' => 0,
+          'hasMiddleName' => 0,
+          'middleName' => '',
+          'component' => 'IHS',
+          'documentType' => '278TR04',
+          'year' => '2010'
+        };
